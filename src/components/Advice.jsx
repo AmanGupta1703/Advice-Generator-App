@@ -41,7 +41,7 @@ export default function Advice() {
       />
 
       <button className="btn" onClick={handleClick}>
-        <img src="/public/images/icon-dice.svg" alt="" className="dice" />
+        <img src="images/icon-dice.svg" alt="" className="dice" />
       </button>
     </section>
   );

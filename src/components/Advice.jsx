@@ -29,13 +29,13 @@ export default function Advice() {
       <p className="quote">{advice.quote}</p>
 
       <img
-        src="/public/images/pattern-divider-desktop.svg"
+        src="images/pattern-divider-desktop.svg"
         alt=""
         className="divider-desktop"
       />
 
       <img
-        src="/public/images/pattern-divider-mobile.svg"
+        src="images/pattern-divider-mobile.svg"
         alt=""
         className="divider-mobile"
       />

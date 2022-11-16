@@ -6,8 +6,8 @@ import "./responsive.css";
 import Footer from "./components/Footer";
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-  <main>
+  <>
     <App />
     <Footer />
-  </main>
+  </>
 )

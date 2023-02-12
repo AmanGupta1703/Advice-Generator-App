@@ -1,4 +1,4 @@
---- NEED UPDATION -----
+--- NEED UPDATE WRONG CODE AND JS WOULD KEEP ON RE_RENDERING -----
 
 # Frontend Mentor - Advice generator app solution
 
